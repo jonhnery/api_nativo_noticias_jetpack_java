@@ -1,23 +1,27 @@
 [
 {
+"id": 1,
 "title": "Resistente",
 "description": "Sport conquista acesso à Série A2 do Brasileiro Feminino após empate com VF4",
 "image": "https://jonhnery.github.io/api_nativo_noticias_jetpack_java/imagens/1.resistente.jpg",
 "link": "https://ge.globo.com/pe/futebol/times/sport/noticia/2022/07/23/sport-conquista-acesso-para-serie-a2-do-brasileiro-feminino.ghtml"
 },
 {
+"id": 2,
 "title": "Onda de lesões",
 "description": "Desfalca seleções nas competições internacionais do futebol feminino",
 "image": "https://jonhnery.github.io/api_nativo_noticias_jetpack_java/imagens/2.onda.jpg",
 "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/06/onda-de-lesoes-desfalca-selecoes-nas-competicoes-internacionais-do-futebol-feminino.ghtml"
 },
 {
+"id": 3,
 "title": "Brasil vence a Colômbia",
 "description": "Na final e conquista Copa América Feminina",
 "image": "https://jonhnery.github.io/api_nativo_noticias_jetpack_java/imagens/3.Colombia.jpg",
 "link": "https://esportes.yahoo.com/brasil-vence-col%C3%B4mbia-na-final-020800453.html"
 },
 {
+"id": 4,
 "title": "Sem a camisa 10:",
 "description": "Pia distribui liderança na Seleção com ausência da capitã Marta na Copa América",
 "image": "https://jonhnery.github.io/api_nativo_noticias_jetpack_java/imagens/4.semcamisa.jpg",
